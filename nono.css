@@ -738,6 +738,10 @@ footer .end span{
     margin-left: 10px;
 }
 
+::-webkit-scrollbar{
+    width: 13px;
+}
+
 
 
 
