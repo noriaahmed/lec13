@@ -549,6 +549,11 @@ section .main_btn:hover i{
     position: relative;
     bottom: 15px;
 }
+.order .order_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 
 
 
