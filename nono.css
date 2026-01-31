@@ -562,6 +562,9 @@ section .main_btn:hover i{
     grid-template-columns: 1fr 1fr;
     grid-gap: 0 10px;
 }
+.order .order_main form .input p{
+    line-height: 25px;
+}
 
 
 
