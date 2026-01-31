@@ -660,6 +660,11 @@ section .main_btn:hover i{
     transition: 0.4s;
 }
 
+.team .team_box .profile:hover img{
+    border-radius: 20px;
+    margin-top: -230px;
+}
+
 
 
 
