@@ -421,6 +421,12 @@ section .main_btn:hover i{
     height: 100vh;
     padding: 70px 0;
 }
+.review h1{
+    font-size: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
