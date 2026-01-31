@@ -723,6 +723,9 @@ footer .footer_main .footer_tag i{
     margin: 0 5px;
     cursor: pointer;
 }
+footer .footer_main .footer_tag i:hover{
+    color: #fac031;
+}
 
 
 
