@@ -103,3 +103,12 @@ section p{
     bottom: 120px;
     line-height: 22px;
 }
+section .main_btn{
+    background: #fac031;
+    position: relative;
+    left: 123px;
+    bottom: 30px;
+    width: 150px;
+    cursor: pointer;
+    padding: 12px 25px;
+}
