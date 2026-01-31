@@ -512,6 +512,9 @@ section .main_btn:hover i{
     line-height: 22px;
     transition: 0.3s;
 }
+.review .review_box .review_card:hover .review_text p{
+    margin-top: 5px;
+}
 
 
 
