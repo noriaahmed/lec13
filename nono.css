@@ -467,6 +467,14 @@ section .main_btn:hover i{
 .review .review_box .review_card:hover .review_profile{
     transform: translateY(-60px);
 }
+.review .review_box .review_card .review_profile img{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    border: 5px solid #cccccc;
+}
 
 
 
