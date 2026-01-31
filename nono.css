@@ -168,3 +168,20 @@ section .main_btn:hover i{
     margin-right: 30px;
     line-height: 22px;
 }
+
+
+.about .about_btn{
+    background: #fac031;
+    padding: 12px 25px;
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    left: 55%;
+    bottom: 30px;
+}
+/*Menu*/
+
+.menu{
+    width: 100%;
+    padding: 70px 0;
+}
