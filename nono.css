@@ -644,6 +644,10 @@ section .main_btn:hover i{
     box-shadow: 0 0 8px rgba(0,0,0,0.5);
     transition: 0.4s;
 }
+.team .team_box .profile:hover{
+    border-radius: 20px;
+    height: 320px;
+}
 
 
 
