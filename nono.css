@@ -442,5 +442,11 @@ section .main_btn:hover i{
     display: block;
 }
 
+.review .review_box{
+    width: 95%;
+    margin: 70px auto;
+    display: flex;
+}
+
 
 
