@@ -503,6 +503,11 @@ section .main_btn:hover i{
     transition: 0.3s;
 }
 
+.review .review_box .review_card:hover .review_text .review_social i{
+    opacity: 1;
+    transform: translateY(-8px);
+}
+
 
 
 
