@@ -447,6 +447,15 @@ section .main_btn:hover i{
     margin: 70px auto;
     display: flex;
 }
+.review .review_box .review_card{
+    width: 350px;
+    height: 535px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    border-radius: 8px;
+    padding: 8px 20px;
+    margin: 0 8px;
+}
+
 
 
 
