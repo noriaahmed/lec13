@@ -557,6 +557,11 @@ section .main_btn:hover i{
 .order .order_main .order_image img{
     width: 600px;
 }
+.order .order_main form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0 10px;
+}
 
 
 
