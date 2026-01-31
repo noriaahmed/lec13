@@ -695,6 +695,14 @@ section .main_btn:hover i{
 
 
 
+/*Footer*/
+
+footer{
+    width: 100%;
+    padding: 30px 0 0 20px;
+    background: #eeeeee;
+}
+
 
 
 
