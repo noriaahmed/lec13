@@ -678,6 +678,11 @@ section .main_btn:hover i{
     color: #fac031;
     margin-bottom: 15px;
 }
+.team .team_box .profile .info .bio{
+    width: 70%;
+    text-align: center;
+    margin: 0 auto 10px auto;
+}
 
 
 
