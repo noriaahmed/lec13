@@ -317,3 +317,17 @@ section .main_btn:hover i{
     margin: 0 80px;
     transition: 0.3s;
 }
+
+/*Gallary*/
+
+.gallary{
+    width: 100%;
+    padding: 70px 0;
+}
+
+.gallary h1{
+    font-size: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
