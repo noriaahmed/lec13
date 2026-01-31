@@ -727,6 +727,12 @@ footer .footer_main .footer_tag i:hover{
     color: #fac031;
 }
 
+footer .end{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
 
 
 
