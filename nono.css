@@ -368,3 +368,13 @@ section .main_btn:hover i{
 .gallary .gallary_image_box .gallary_image:hover img{
     opacity: 0.4;
 }
+.gallary .gallary_image_box .gallary_image h3{
+    position: absolute;
+    font-size: 35px;
+    margin-bottom: 130px;
+    color: #fac031;
+    font-family: polo;
+    z-index: 5;
+    opacity: 0;
+    transition: 0.3s;
+}
