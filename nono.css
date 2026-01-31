@@ -484,6 +484,14 @@ section .main_btn:hover i{
     transition: 0.3s;
 }
 
+.review .review_box .review_card:hover .review_text .name{
+    transform: translateY(-50px);
+}
+
+.review .review_box .review_card .review_text .review_icon{
+    color: #fac031;
+    transition: 0.3s;
+}
 
 
 
