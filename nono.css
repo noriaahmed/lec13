@@ -683,6 +683,17 @@ section .main_btn:hover i{
     text-align: center;
     margin: 0 auto 10px auto;
 }
+.team .team_box .profile .info .team_icon i{
+    margin: 10px 5px 5px 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.team .team_box .profile .info .team_icon i:hover{
+    color: #fac031;
+}
+
+
 
 
 
