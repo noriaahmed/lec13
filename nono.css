@@ -43,3 +43,11 @@ section nav ul li a{
     font-size: 17px;
     transition: 0.1s;
 }
+section nav ul li a::after{
+    content: '';
+    width: 0;
+    height: 2px;
+    background: #fac031;
+    display: block;
+    transition: 0.2s linear;
+}
