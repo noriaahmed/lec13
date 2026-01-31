@@ -719,6 +719,11 @@ footer .footer_main .footer_tag p{
     margin: 10px 0;
 }
 
+footer .footer_main .footer_tag i{
+    margin: 0 5px;
+    cursor: pointer;
+}
+
 
 
 
