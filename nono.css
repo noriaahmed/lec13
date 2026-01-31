@@ -709,6 +709,12 @@ footer .footer_main{
 footer .footer_main .footer_tag{
     text-align: center;
 }
+footer .footer_main .footer_tag h2{
+    color: #000;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
 
 
 
