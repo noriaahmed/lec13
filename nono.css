@@ -706,6 +706,9 @@ footer .footer_main{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
+footer .footer_main .footer_tag{
+    text-align: center;
+}
 
 
 
