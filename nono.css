@@ -64,3 +64,14 @@ section nav .icon i{
     cursor: pointer;
     transition: 0.3s;
 }
+section nav .icon i:hover{
+    color: #fac031;
+}
+
+section .main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 130px;
+}
