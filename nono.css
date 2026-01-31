@@ -578,6 +578,9 @@ section .main_btn:hover i{
     outline: none;
     border-radius: 3px;
 }
+.order .order_main form .input input:focus{
+    border: 2px solid #fac031;
+}
 
 
 
