@@ -378,3 +378,6 @@ section .main_btn:hover i{
     opacity: 0;
     transition: 0.3s;
 }
+.gallary .gallary_image_box .gallary_image:hover h3{
+    opacity: 1;
+}
