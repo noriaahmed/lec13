@@ -75,3 +75,17 @@ section .main{
     position: relative;
     top: 130px;
 }
+section .main .men_text h1{
+    font-size: 60px;
+    position: relative;
+    top: -90px;
+    left: 20px;
+}
+
+section .main .men_text h1 span{
+    margin-left: 15px;
+    color: #fac031;
+    font-family: mv boli;
+    line-height: 22px;
+    font-size: 70px;
+}
