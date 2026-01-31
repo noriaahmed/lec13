@@ -194,3 +194,8 @@ section .main_btn:hover i{
     justify-content: center;
     margin-bottom: 30px;
 }
+.menu h1 span{
+    color: #fac031;
+    margin-left: 15px;
+    font-family: mv boli;
+}
