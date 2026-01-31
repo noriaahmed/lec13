@@ -408,3 +408,10 @@ section .main_btn:hover i{
     z-index: 5;
     transition: 0.3s;
 }
+
+.gallary .gallary_image_box .gallary_image:hover .gallary_btn{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
