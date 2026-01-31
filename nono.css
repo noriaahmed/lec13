@@ -554,6 +554,9 @@ section .main_btn:hover i{
     align-items: center;
     justify-content: space-around;
 }
+.order .order_main .order_image img{
+    width: 600px;
+}
 
 
 
