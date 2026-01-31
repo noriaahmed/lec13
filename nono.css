@@ -609,6 +609,11 @@ section .main_btn:hover i{
     font-size: 55px;
     margin-bottom: 30px;
 }
+.team h1 span{
+    color: #fac031;
+    margin-left: 15px;
+    font-family: mv boli;
+}
 
 
 
