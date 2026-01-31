@@ -733,6 +733,11 @@ footer .end{
     justify-content: center;
     padding: 15px;
 }
+footer .end span{
+    color: #fac031;
+    margin-left: 10px;
+}
+
 
 
 
