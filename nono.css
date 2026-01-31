@@ -540,6 +540,16 @@ section .main_btn:hover i{
     font-family: mv boli;
 }
 
+.order h1 span::after{
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #fac031;
+    display: block;
+    position: relative;
+    bottom: 15px;
+}
+
 
 
 
