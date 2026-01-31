@@ -455,7 +455,13 @@ section .main_btn:hover i{
     padding: 8px 20px;
     margin: 0 8px;
 }
-
+.review .review_box .review_card .review_profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: 0.3s;
+}
 
 
 
