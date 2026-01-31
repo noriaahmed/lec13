@@ -360,3 +360,11 @@ section .main_btn:hover i{
     justify-content: center;
     background: black;
 }
+.gallary .gallary_image_box .gallary_image img{
+    width: 100%;
+    transition: .3s;
+}
+
+.gallary .gallary_image_box .gallary_image:hover img{
+    opacity: 0.4;
+}
