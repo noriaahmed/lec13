@@ -381,3 +381,15 @@ section .main_btn:hover i{
 .gallary .gallary_image_box .gallary_image:hover h3{
     opacity: 1;
 }
+
+.gallary .gallary_image_box .gallary_image p{
+    position: absolute;
+    width: 400px;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    line-height: 22px;
+    opacity: 0;
+    z-index: 5;
+    transition: 0.3s;
+}
