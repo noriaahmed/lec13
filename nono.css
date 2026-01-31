@@ -475,6 +475,9 @@ section .main_btn:hover i{
     border-radius: 50%;
     border: 5px solid #cccccc;
 }
+.review .review_box .review_card .review_text{
+    text-align: center;
+}
 
 
 
