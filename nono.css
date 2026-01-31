@@ -534,6 +534,12 @@ section .main_btn:hover i{
     font-size: 55px;
 }
 
+.order h1 span{
+    color: #fac031;
+    margin-right: 15px;
+    font-family: mv boli;
+}
+
 
 
 
