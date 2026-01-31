@@ -582,6 +582,16 @@ section .main_btn:hover i{
     border: 2px solid #fac031;
 }
 
+.order .order_main form .order_btn{
+    padding: 10px 0;
+    background: #fac031;
+    color: white;
+    width: 40%;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
 
 
 
