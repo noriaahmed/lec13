@@ -288,3 +288,8 @@ section .main_btn:hover i{
     text-align: center;
     margin-top: 10px;
 }
+.menu .menu_box .menu_card .menu_info .menu_icon{
+    color: #fac031;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
