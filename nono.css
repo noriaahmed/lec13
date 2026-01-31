@@ -674,6 +674,10 @@ section .main_btn:hover i{
 .team .team_box .profile:hover .info{
     top: 60%;
 }
+.team .team_box .profile .info .name{
+    color: #fac031;
+    margin-bottom: 15px;
+}
 
 
 
