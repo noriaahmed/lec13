@@ -146,3 +146,14 @@ section .main_btn:hover i{
     position: relative;
     top: 60px;
 }
+.about .about_main .about_text h1 span{
+    color: #fac031;
+    margin-right: 15px;
+    font-family: mv boli;
+}
+
+.about .about_main .about_text h1{
+    font-size: 55px;
+    position: relative;
+    bottom: 50px;
+}
