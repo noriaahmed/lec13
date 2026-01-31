@@ -566,6 +566,10 @@ section .main_btn:hover i{
     line-height: 25px;
 }
 
+.order .order_main form .input{
+    margin: 5px;
+}
+
 
 
 
