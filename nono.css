@@ -569,6 +569,15 @@ section .main_btn:hover i{
 .order .order_main form .input{
     margin: 5px;
 }
+.order .order_main form .input input{
+    width: 300px;
+    height: 35px;
+    padding: 0 10px;
+    border: 2px solid #cccccc;
+    background: #eeeeee;
+    outline: none;
+    border-radius: 3px;
+}
 
 
 
